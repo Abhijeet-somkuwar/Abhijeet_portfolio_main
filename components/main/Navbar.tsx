@@ -19,7 +19,7 @@ const Navbar = () => {
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            Abhijeet Somkuwar
+            Hi I'm Abhijeet
           </span>
         </a>
 
