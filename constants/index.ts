@@ -30,14 +30,14 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Redux",
-      Image: "/redux.png",
+      skill_name: "C++",
+      Image: "/c++.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
+      skill_name: "Django",
+      Image: "/django.png",
       width: 80,
       height: 80,
     },
@@ -61,7 +61,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Stripe Payment",
-      Image: "/stripe.webp",
+      Image: "/razerpay.png",
       width: 80,
       height: 80,
     },
@@ -123,8 +123,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
+      skill_name: "Python",
+      Image: "/python.png",
       width: 80,
       height: 80,
     },
@@ -135,14 +135,14 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Redux",
-      Image: "/redux.png",
+      skill_name: "C++",
+      Image: "/c++.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
+      skill_name: "Django",
+      Image: "/django.png",
       width: 80,
       height: 80,
     },
@@ -198,14 +198,14 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Prisma",
-      Image: "/prisma.webp",
+      skill_name: "Jenkins",
+      Image: "/jenkins.png",
       width: 70,
       height: 70,
     },
     {
-      skill_name: "Graphql",
-      Image: "/graphql.png",
+      skill_name: "Lunix",
+      Image: "/lunix.png",
       width: 80,
       height: 80,
     },
@@ -219,8 +219,8 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
+      skill_name: "RestFull API",
+      Image: "/rest_api.png",
       width: 70,
       height: 70,
     },
@@ -244,8 +244,8 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/go.png",
+      skill_name: "python",
+      Image: "/python.png",
       width: 60,
       height: 60,
     },

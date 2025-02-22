@@ -37,16 +37,33 @@ const Navbar = () => {
           </div>
         </div>
 
+        {/* Updated Social Media Links */}
         <div className="flex flex-row gap-5">
-          {Socials.map((social) => (
+          <a
+            href="https://www.linkedin.com/in/abhijeet-somkuwar-929025194/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Image
-              src={social.src}
-              alt={social.name}
-              key={social.name}
-              width={24}
-              height={24}
+              src="/linkedin2.png"
+              alt="LinkedIn"
+              width={30}
+              height={30}
             />
-          ))}
+          </a>
+
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image
+              src="/instagram.png"
+              alt="Instagram"
+              width={30}
+              height={30}
+            />
+          </a>
         </div>
       </div>
     </div>

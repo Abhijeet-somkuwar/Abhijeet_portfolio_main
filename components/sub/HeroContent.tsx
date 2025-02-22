@@ -22,9 +22,9 @@ const HeroContent = () => {
           variants={slideInFromTop}
           className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
         >
-          <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
+          <SparklesIcon className="text-[#b49bff] mr-[15px] h-7 w-7" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            Fullstack Developer
           </h1>
         </motion.div>
 
@@ -53,9 +53,12 @@ const HeroContent = () => {
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
+          href="/Pune-job-resume.pdf" // Link to your resume file
+          target="_blank"
+          rel="noopener noreferrer"
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Learn More!
+          View Resume
         </motion.a>
       </div>
 
